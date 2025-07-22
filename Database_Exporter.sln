@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database_Exporter", "Database_Exporter.csproj", "{79E2C485-7788-4F86-A14A-656AD09876CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database_Exporter.Options", "..\Database_Exporter.Options\Database_Exporter.Options.csproj", "{89B2416A-5B2A-4296-9CC2-0AA5ED69B7C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{79E2C485-7788-4F86-A14A-656AD09876CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79E2C485-7788-4F86-A14A-656AD09876CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79E2C485-7788-4F86-A14A-656AD09876CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B2416A-5B2A-4296-9CC2-0AA5ED69B7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B2416A-5B2A-4296-9CC2-0AA5ED69B7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B2416A-5B2A-4296-9CC2-0AA5ED69B7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B2416A-5B2A-4296-9CC2-0AA5ED69B7C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
